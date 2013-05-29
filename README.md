@@ -1,0 +1,1 @@
+Moneyballer is a JavaScript/AJAX bookmarklet that, given a player's name, generates live player statistics and fantasy projections. Browse any webpage, find a player's name on the DOM, and drag their name into the bookmarklet. A play on Michael Lewis' book 'Moneyball', the bookmarklet aims to provide a quick display of sabermetrics for fantasy coaches. Plus: it be baller.
